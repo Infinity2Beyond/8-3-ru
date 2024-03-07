@@ -76,7 +76,7 @@ function troll() {
       x.style.display="none";
       y.style.display="block";
       document.getElementById("alert").innerHTML = "😒";
-      document.getElementById("alert2").innerHTML = "Cậu mà tắt hay thoát là mình bùn lắm ó!";
+      document.getElementById("alert2").innerHTML = "Мне будет очень грустно если выключите или уйдете!";
       return false;
 }
 function troll1() {
@@ -120,8 +120,8 @@ function inrel2() {
     return false;
 }
 function trollalt() {
-    document.getElementById("alert2").innerHTML="Sao cậu hong muốn, sẽ rất bất ngờ đấy!";
-    alert("Sao cậu hong muốn, sẽ rất bất ngờ đấy!");
+    document.getElementById("alert2").innerHTML="Почему же, это будет очень удивительно😊!";
+    alert("Почему же, это будет очень удивительно😊!");
     return false;
 }
 
